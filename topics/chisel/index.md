@@ -1,7 +1,7 @@
 ---
 aliases: chisel3, chisel-3
 display_name: Chisel
-logo: 
+logo: chisel.png
 released: firrtl, asic, fpga, scala, verilog, 
 short_description: Chisel is a hardware design lanaguage that facilitates advanced circuito generation and design reuse for both ASIC and FPGA digital logic designs.
 topic: chisel
