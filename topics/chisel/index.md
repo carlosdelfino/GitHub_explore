@@ -7,6 +7,7 @@ short_description: Chisel is a hardware design lanaguage that facilitates advanc
 topic: chisel
 url: https://www.chisel-lang.org
 wikipedia_url: https://en.wikipedia.org/wiki/Chisel_(programming_language)
+github_url: https://github.com/chipsalliance/chisel3
 ---
 
 Chisel is a hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog. This generator methodology enables the creation of re-usable components and libraries, such as the FIFO queue and arbiters in the Chisel Standard Library, raising the level of abstraction in design while retaining fine-grained control.
